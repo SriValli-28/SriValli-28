@@ -69,29 +69,49 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streaks
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SriValli-28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriValli-28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriValli-28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width=" 80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriValli-28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats & Most Used Languages
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SriValli-28&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SriValli-28&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=9D4EDD" alt="Srivalli GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriValli-28&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+## 🧰 Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,fastapi,github,vscode" />
+
+</div>
+
+---
+
 
 ## 🌐 Connect With Me
 
