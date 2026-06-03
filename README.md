@@ -1,22 +1,26 @@
 <div align="center">
 
-# Hi 👋, I'm Thota Srivalli
+# Hey, I'm Srivalli 👩‍💻
 
-### B.Tech CSE Student | Aspiring Software Development Engineer | AI/ML Enthusiast
+### CSE Student | Software Development | AI/ML Enthusiast | Data Services
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Web+Development;Machine+Learning+%7C+Data+Analytics;Building+projects+and+learning+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe;Building+Projects+with+Code+and+Creativity;Learning+AI%2C+ML%2C+Web+Development" alt="Typing SVG" />
+
+<br><br>
+
+[![](https://komarev.com/ghpvc/?username=SriValli-28\&icon=6\&color=8A2BE2)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-- 🎓 I am a B.Tech 3rd-year Computer Science Engineering student  
-- 💻 Interested in Software Development, AI/ML, and Data Analytics  
-- 🌱 Currently learning Java, Python, Web Development, and Machine Learning  
-- 🚀 Building projects to improve my practical coding skills  
-- 🎯 Career goal: Software Development Engineer / AI Engineer  
+* 🎓 B.Tech 3rd-year Computer Science Engineering student
+* 💻 Interested in **Software Development, AI/ML, and Data Analytics**
+* 🌱 Currently learning **Python, Java, Machine Learning, and Web Development**
+* 🚀 Building real-world projects to improve my technical skills
+* 🎯 Goal: To become a strong **Software Development Engineer / AI Engineer**
 
 ---
 
@@ -24,33 +28,44 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### AI / ML / Data
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1E90FF?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-6A5ACD?style=for-the-badge)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔬 Skin Cancer Detection  
-CNN-based machine learning project to classify skin lesion images as benign or malignant.
-
-### ⚡ Residential Energy Analytics Platform  
-Python and Streamlit-based platform for energy usage analysis, forecasting, and recommendations.
-
-### 📚 Bookstore Website  
-Frontend website with login, register, home page, cart, checkout, profile, and book details pages.
-
-### 🔗 URL Shortener  
-Java-based project for shortening long URLs and managing links.
+| Project                                                                                           | Description                                                                 | Tech Stack                      |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------- |
+| **[Skin Cancer Detection](https://github.com/SriValli-28/cnn-skin-cancer-classifier)**            | CNN-based system to classify skin lesion images as benign or malignant      | Python, CNN, TensorFlow/Keras   |
+| **[Salary Prediction Model](https://github.com/SriValli-28/salary-prediction-linear-regression)** | Predicts salary based on years of experience using Simple Linear Regression | Python, Streamlit, Scikit-learn |
+| **[FastAPI ML Model API](https://github.com/SriValli-28/fastapi.ml.model)**                       | Backend API for serving machine learning model predictions                  | Python, FastAPI                 |
+| **[Fintech Project](https://github.com/SriValli-28/Fintech)**                                     | Finance-related learning and experimentation project                        | GitHub, Notes                   |
 
 ---
 
@@ -58,37 +73,26 @@ Java-based project for shortening long URLs and managing links.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SriValli-28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=SriValli-28&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-<br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=SriValli-28&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=SriValli-28&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriValli-28&theme=tokyonight&hide_border=false&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SriValli-28&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SriValli-28&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🎯 Currently Focused On
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SriValli-28&theme=tokyo-night" />
-
-</div>
+* Strengthening programming skills in **Python, Java, and C**
+* Building machine learning and backend projects
+* Improving problem-solving and software development concepts
+* Learning deployment using **Streamlit, FastAPI, and GitHub**
 
 ---
 
@@ -96,8 +100,9 @@ Java-based project for shortening long URLs and managing links.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SriValli--28-181717?style=for-the-badge&logo=github)](https://github.com/SriValli-28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-SriValli--28-black?style=for-the-badge\&logo=github)](https://github.com/SriValli-28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thota%20Sri%20Valli-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/thota-sri-valli-280177283/)
+[![Gmail](https://img.shields.io/badge/Gmail-sriv5711%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sriv5711@gmail.com)
 
 </div>
 
@@ -105,8 +110,6 @@ Java-based project for shortening long URLs and managing links.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SriValli-28&color=blueviolet&style=flat-square)
-
-### ✨ Thank you for visiting my profile ✨
+### ✨ Code. Learn. Build. Improve. ✨
 
 </div>
